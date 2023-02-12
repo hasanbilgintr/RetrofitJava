@@ -1,0 +1,10 @@
+1-hava durumu için weather api openweathermap.org tur
+2-döviz bilgileri
+için currency api
+fixer.io
+3-json formatını güzelleştiren codebeautify.org
+4-maintrain de kullanıca işlemine burnunu sokamadan işlem yaptırabilir olması gerekir
+AsyncTask ise senkron ama eskidi ondan dolayı(hafıza sorunları) retrofit kullanıcaz
+5- retrofit https://square.github.io/retrofit/
+6-bitcoin api için https://nomics.com/ sağ üstte api key diyoruz mail istiyo vs anket vs uzun sürüyo
+7-atılsamancıoğlu github set https://raw.githubusercontent.com/atilsamancioglu/K21-JSONDataSet/master/crypto.json
